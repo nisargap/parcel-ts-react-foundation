@@ -1,0 +1,14 @@
+{
+    "defaultSeverity": "error",
+    "extends": ["tslint-config-airbnb", "tslint-react", "tslint-config-prettier"],
+    "jsRules": {},
+    "rules": {
+      "no-default-export": true,
+      "no-implicit-dependencies": [true],
+      "no-submodule-imports": false,
+      "no-relative-imports": true,
+      "export-name": false,
+      "no-import-side-effect": [true, { "ignore-module": "(\\.css)$" }],
+    },
+    "rulesDirectory": []
+}  

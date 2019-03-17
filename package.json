@@ -1,0 +1,22 @@
+{
+  "devDependencies": {
+    "@types/react": "^16.8.8",
+    "typescript": "^3.3.3333"
+  },
+  "dependencies": {
+    "@types/react-dom": "^16.8.2",
+    "@types/router5": "^5.0.0",
+    "components": "^0.1.0",
+    "foundation-sites": "^6.5.3",
+    "jquery": ">=2.2.0",
+    "nav": "^0.0.2",
+    "react": ">=16.3.0",
+    "react-dom": "^16.8.4",
+    "react-foundation": "^0.9.6",
+    "react-router5": "^7.1.0",
+    "router5": "^7.0.0",
+    "router5-plugin-browser": "^7.0.2",
+    "src": "^1.1.2",
+    "what-input": ">=4.1.0"
+  }
+}

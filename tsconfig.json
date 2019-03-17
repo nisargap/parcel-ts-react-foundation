@@ -1,0 +1,35 @@
+{
+    "baseDir": "./src",
+    "compilerOptions": {
+      "module": "commonjs",
+      "moduleResolution": "node",
+      "baseUrl": ".",
+      "paths": {
+        "/*":["src/*"]
+      },
+      "newLine": "LF",
+      "outDir": "./lib/",
+      "target": "es5",
+      "sourceMap": true,
+      "declaration": true,
+      "esModuleInterop": true,
+      "jsx": "react",
+      "lib": [
+        "es2017",
+        "dom"
+      ],
+      "strict": true,
+      "noUnusedLocals": true,
+      "noUnusedParameters": true,
+      "noImplicitReturns": true,
+      "noFallthroughCasesInSwitch": true
+    },
+    "include": [
+      "src",
+      "src/**/*"
+    ],
+    "exclude": [
+      ".git",
+      "node_modules"
+    ]
+}
