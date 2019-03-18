@@ -15,6 +15,9 @@ const App: React.SFC<AppProps> = ({ route }) => {
         case 'profile': {
             return <h1>Profile</h1>;
         }
+        case 'ryan': {
+            return <h1>Ryan</h1>;
+        }
         default: {
             return (<h1>Not Found</h1>)
         }

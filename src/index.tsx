@@ -8,7 +8,8 @@ import 'foundation-sites/dist/css/foundation.min.css';
 
 const routes = [
     { name: 'home', path: '/' },
-    { name: 'profile', path: '/profile' }
+    { name: 'profile', path: '/profile' },
+    { name: 'ryan', path: '/ryan' },
 ]
 
 const router = createRouter(routes);

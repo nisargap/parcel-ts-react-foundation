@@ -10,13 +10,14 @@
     "foundation-sites": "^6.5.3",
     "jquery": ">=2.2.0",
     "nav": "^0.0.2",
-    "react": ">=16.3.0",
-    "react-dom": "^16.8.4",
+    "react": ">= 16.3.0",
+    "react-dom": ">= 16.3.0",
     "react-foundation": "^0.9.6",
     "react-router5": "^7.1.0",
     "router5": "^7.0.0",
     "router5-plugin-browser": "^7.0.2",
     "src": "^1.1.2",
+    "styled-components": "^4.1.3",
     "what-input": ">=4.1.0"
   }
 }
